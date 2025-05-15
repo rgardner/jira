@@ -33,14 +33,13 @@ require (
 	github.com/pkg/browser v0.0.0-20170505125900-c90ca0c84f15
 	github.com/pkg/errors v0.8.0
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/stretchr/testify v1.2.2
+	github.com/stretchr/testify v1.7.0
 	github.com/theckman/go-flock v0.4.0 // indirect
 	github.com/tidwall/gjson v0.0.0-20180711011033-ba784d767ac7
 	github.com/tidwall/match v1.0.0 // indirect
-	github.com/tmc/keyring v0.0.0-20171121202319-839169085ae1
-	golang.org/x/crypto v0.0.0-20180723164146-c126467f60eb
-	golang.org/x/net v0.0.0-20171102191033-01c190206fbd
-	golang.org/x/sys v0.0.0-20180727230415-bd9dbc187b6e // indirect
+	github.com/tmc/keyring v0.0.0-20230418032330-0c8bdba76fa8
+	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	gopkg.in/AlecAivazis/survey.v1 v1.6.1
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
